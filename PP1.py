@@ -3,11 +3,7 @@ def q1():
 print("Hello World")
 def q2():
   #Write Assignment code here
-  print("1")
-  print("1")
-  print("1")
-  print("1")
-  print("1")
+  print("1\n2\n3\n4\n5")
   def q3():
   #Write Assignment code here
   print(" Help Me!")
