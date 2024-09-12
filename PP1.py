@@ -9,3 +9,4 @@ def q3():
   print(" Help Me!")
 def q4:
   #Write Assignment code here
+print("3 x 3 = 9")
