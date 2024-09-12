@@ -6,6 +6,6 @@ def q2():
   
 def q3():
   #Write Assignment code here
-  
+  print(" Help Me!")
 def q4:
   #Write Assignment code here
